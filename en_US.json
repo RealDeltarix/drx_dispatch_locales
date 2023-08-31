@@ -1,0 +1,16 @@
+{
+  "DATE": {
+    "YEAR": "year",
+    "MONTH": "month",
+    "DAY": "day",
+    "HOUR": "hour",
+    "MINUTE": "minute",
+    "SECOND": "second",
+    "S": "s",
+    "AGO": "ago",
+    "LEFT": "left",
+    "JUST_NOW": "Just now",
+    "EXPIRED": "Expired",
+    "AND": "and"
+  }
+}
