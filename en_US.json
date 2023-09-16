@@ -1,4 +1,15 @@
 {
+  "VIEWS": {
+
+  },
+
+  "UNITS_ATTACHED": "Units attached: {amount}",
+  "NO_UNITS_ATTACHED": "No units attached",
+
+  "PLACEHOLDER": {
+    "SEARCH": "Search..."
+  },
+
   "DATE": {
     "YEAR": "year",
     "MONTH": "month",
